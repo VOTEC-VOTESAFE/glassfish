@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/appserv-tests/ant-tests.iml" filepath="$PROJECT_DIR$/appserver/tests/appserv-tests/ant-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/appserv-tests/cciblackbox-tx/cciblackbox-tx.iml" filepath="$PROJECT_DIR$/appserver/tests/appserv-tests/cciblackbox-tx/cciblackbox-tx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/connectors-ra-redeploy.iml" filepath="$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/connectors-ra-redeploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/jars/connectors-ra-redeploy-jars.iml" filepath="$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/jars/connectors-ra-redeploy-jars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/rars/connectors-ra-redeploy-rars.iml" filepath="$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/rars/connectors-ra-redeploy-rars.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/rars-xa/connectors-ra-redeploy-rars-xa.iml" filepath="$PROJECT_DIR$/appserver/tests/appserv-tests/connectors-ra-redeploy/rars-xa/connectors-ra-redeploy-rars-xa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/featuresets/debug/debug.iml" filepath="$PROJECT_DIR$/appserver/featuresets/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/embedded_ejb_smoke/ejb_lite_basic/ejb-lite-basic.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/embedded_ejb_smoke/ejb_lite_basic/ejb-lite-basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/extras/embedded/embedded.iml" filepath="$PROJECT_DIR$/appserver/extras/embedded/embedded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/embedded_ejb_smoke/embedded-ejb-smoke.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/embedded_ejb_smoke/embedded-ejb-smoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/embedded_ejb_smoke/runner/embedded-ejb-smoke-runner.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/embedded_ejb_smoke/runner/embedded-ejb-smoke-runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glassfish.iml" filepath="$PROJECT_DIR$/glassfish.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/extras/embedded/all/glassfish-embedded-all.iml" filepath="$PROJECT_DIR$/appserver/extras/embedded/all/glassfish-embedded-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/extras/embedded/nucleus/glassfish-embedded-nucleus.iml" filepath="$PROJECT_DIR$/appserver/extras/embedded/nucleus/glassfish-embedded-nucleus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/extras/embedded/web/glassfish-embedded-web.iml" filepath="$PROJECT_DIR$/appserver/extras/embedded/web/glassfish-embedded-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/authorization/glassfish-external-tck-authorization.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/authorization/glassfish-external-tck-authorization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qa/glassfish-qa-config.iml" filepath="$PROJECT_DIR$/qa/glassfish-qa-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/tck-download/jakarta-authorization-tck/jakarta-authorization-tck.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/tck-download/jakarta-authorization-tck/jakarta-authorization-tck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/tck-download/javatest/javatest.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/tck-download/javatest/javatest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/web/jersey-ejb-component-provider/jersey-ejb-component-provider.iml" filepath="$PROJECT_DIR$/appserver/web/jersey-ejb-component-provider/jersey-ejb-component-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/resources/mail/mail.iml" filepath="$PROJECT_DIR$/appserver/resources/mail/mail.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/resources/mail/mail-connector/mail-connector.iml" filepath="$PROJECT_DIR$/appserver/resources/mail/mail-connector/mail-connector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/resources/mail/mail-runtime/mail-runtime.iml" filepath="$PROJECT_DIR$/appserver/resources/mail/mail-runtime/mail-runtime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/tck.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/tck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/tck-download/tck-download.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/tck-download/tck-download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/extras/embedded/tests/tests-embedded.iml" filepath="$PROJECT_DIR$/appserver/extras/embedded/tests/tests-embedded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appserver/tests/tck/tck-download/tsharness/tsharness.iml" filepath="$PROJECT_DIR$/appserver/tests/tck/tck-download/tsharness/tsharness.iml" />
+    </modules>
+  </component>
+</project>

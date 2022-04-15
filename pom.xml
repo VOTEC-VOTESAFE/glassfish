@@ -28,7 +28,7 @@
     
     <groupId>org.glassfish.main</groupId>
     <artifactId>glassfish-main-aggregator</artifactId>
-    <version>5.1.0-VOTEC1-SNAPSHOT</version>
+    <version>5.1.0-VOTEC1</version>
     <packaging>pom</packaging>
     
     <name>GlassFish Project</name>
